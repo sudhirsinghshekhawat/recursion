@@ -1,7 +1,17 @@
 package com.String;
 
+/**
+ * @author sudhir singh shekhawat
+ * This is an example of merge two string in sorted order
+ */
 public class MergeTwoStringInSortedOrder
 {
+    /**
+     * Method used for merge two String
+     * @param str1 first parameter as string
+     * @param str2 second parameter as String
+     * @return String
+     */
     static  String mergeTwoStringInSortOrder(String str1,String str2)
     {
         if (str1==null||str1.equals(""))

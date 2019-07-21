@@ -1,5 +1,9 @@
 package com.String;
 
+/**
+ * @author sudhir singh shekhawat
+ * This class is an example of  reverse a String in recursive way
+ */
 public class ReverseString
 {
    static String reverseString(String str)
