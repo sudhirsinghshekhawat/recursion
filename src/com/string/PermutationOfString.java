@@ -1,4 +1,4 @@
-package com.String;
+package com.string;
 
 /**
  * @author sudhir
@@ -9,7 +9,7 @@ public class PermutationOfString
 {
     /**
      *
-     * @param arr String to char Array
+     * @param arr string to char Array
      * @param length Length of character array (should be passed length-1)
      */
     public  static  void  stringPermutation(char[] arr,int length)

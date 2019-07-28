@@ -1,4 +1,4 @@
-package com.String;
+package com.string;
 
 /**
  * @author sudhir singh shekhawat
@@ -8,8 +8,8 @@ public class IsStringPellindrome
 {
 
     /**
-     * This is Recursive method which is used to check String is Pellindrome or not.
-     * @param str (String)
+     * This is Recursive method which is used to check string is Pellindrome or not.
+     * @param str (string)
      * @return Object of boolean(true,false)
      */
     public  static Object isStringPellindrome(String str)

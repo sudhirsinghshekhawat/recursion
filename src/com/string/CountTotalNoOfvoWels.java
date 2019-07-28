@@ -1,16 +1,16 @@
-package com.String;
+package com.string;
 
 /**
  * @author sudhir  singh shekhawat
- * This is an example for count the no of wovels in String in recursive way
+ * This is an example for count the no of wovels in string in recursive way
  */
 public class CountTotalNoOfvoWels
 {
     /**
-     * This method is used to count total number of vowels in String
-     * @param len length of String
+     * This method is used to count total number of vowels in string
+     * @param len length of string
      * @param index index
-     * @param str String
+     * @param str string
      * @return int (no of vowels)
      */
     static  int totalNoOfvowels(int len, int index, String str)

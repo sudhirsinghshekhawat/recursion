@@ -1,4 +1,4 @@
-package com.String;
+package com.string;
 
 /**
  * @author sudhir singh shekhawat
@@ -8,8 +8,8 @@ public class RemovingAdjacentsDuplicates
 {
 
     /**
-     * @param text parameter as String
-     * @return String
+     * @param text parameter as string
+     * @return string
      */
     static String removeDuplicates(String text)
     {

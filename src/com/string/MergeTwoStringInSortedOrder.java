@@ -1,4 +1,4 @@
-package com.String;
+package com.string;
 
 /**
  * @author sudhir singh shekhawat
@@ -7,10 +7,10 @@ package com.String;
 public class MergeTwoStringInSortedOrder
 {
     /**
-     * Method used for merge two String
+     * Method used for merge two string
      * @param str1 first parameter as string
-     * @param str2 second parameter as String
-     * @return String
+     * @param str2 second parameter as string
+     * @return string
      */
     static  String mergeTwoStringInSortOrder(String str1,String str2)
     {
@@ -27,7 +27,7 @@ public class MergeTwoStringInSortedOrder
 
     public static void main(String[] args)
     {
-        System.out.println("Merged String = "+mergeTwoStringInSortOrder("cnt","ace"));
+        System.out.println("Merged string = "+mergeTwoStringInSortOrder("cnt","ace"));
 
     }
 

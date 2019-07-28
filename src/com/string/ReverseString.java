@@ -1,8 +1,8 @@
-package com.String;
+package com.string;
 
 /**
  * @author sudhir singh shekhawat
- * This class is an example of  reverse a String in recursive way
+ * This class is an example of  reverse a string in recursive way
  */
 public class ReverseString
 {
