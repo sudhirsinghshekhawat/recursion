@@ -19,8 +19,8 @@ public class CountNoOfDigits
 
     static int recursiveCountNoOfDigits(int number)
     {
-        if(number<=1)
-            return 1;
+        if(number<1)
+            return 0;
         return 1+recursiveCountNoOfDigits(number/10);
     }
 
